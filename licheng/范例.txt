@@ -1,0 +1,11 @@
+//范例程式：
+
+/*预处理区*/
+#include<stdio.h>
+/*主程序区块*/
+int main(void)
+{
+  /*程序语句区*/
+  printf("hello,world!!\n");
+  return 0;                   //主程序被声明为int数据类型，所以必须返回一个值，返回数值0表示程序正常结束
+} 
